@@ -36,10 +36,6 @@ class Demo{
 
 		System.out.println(str.lastIndexOf("i"));	
 		
-		
-
-
-
-	}
+		}
 }
 
